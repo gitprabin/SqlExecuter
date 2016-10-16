@@ -1,0 +1,11 @@
+C:\Users\devel\Desktop\DatabaseCreator\DatabaseCreator\bin\Debug\DatabaseCreator.exe.config
+C:\Users\devel\Desktop\DatabaseCreator\DatabaseCreator\bin\Debug\DatabaseCreator.exe
+C:\Users\devel\Desktop\DatabaseCreator\DatabaseCreator\bin\Debug\DatabaseCreator.pdb
+C:\Users\devel\Desktop\DatabaseCreator\DatabaseCreator\obj\Debug\DatabaseCreator.Properties.Resources.resources
+C:\Users\devel\Desktop\DatabaseCreator\DatabaseCreator\obj\Debug\DatabaseCreator.csproj.GenerateResource.Cache
+C:\Users\devel\Desktop\DatabaseCreator\DatabaseCreator\obj\Debug\DatabaseCreator.exe
+C:\Users\devel\Desktop\DatabaseCreator\DatabaseCreator\obj\Debug\DatabaseCreator.pdb
+C:\Users\devel\Desktop\DatabaseCreator\DatabaseCreator\obj\Debug\DatabaseCreator.DBADMIN.resources
+C:\Users\devel\Desktop\DatabaseCreator\DatabaseCreator\obj\Debug\DatabaseCreator.Authencate.resources
+C:\Users\devel\Desktop\DatabaseCreator\DatabaseCreator\obj\Debug\DatabaseCreator.csprojResolveAssemblyReference.cache
+C:\Users\devel\Desktop\DatabaseCreator\DatabaseCreator\obj\Debug\DatabaseCreator.SqlRunner.resources
